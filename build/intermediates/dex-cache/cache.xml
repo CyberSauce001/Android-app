@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/student/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/release/support-annotations-24.1.0_4afe0693e36719946cb99d789c8fdd25332fef8b.jar" />
+    </item>
+    <item
+        jar="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.1.0_a273162953c17ea4143bf1f21b53deb87d6c301a.jar" />
+    </item>
+    <item
+        jar="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.1.0_3afad76e129c7d436d1c7b786fb972b33772a1f0.jar" />
+    </item>
+    <item
+        jar="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.1.0_79601567d5233260d254081d3cdcc5851a210639.jar" />
+    </item>
+    <item
+        jar="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.1.0_e5992b2d0b49712a690b624c061190ecf9da18bc.jar" />
+    </item>
+    <item
+        jar="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/home/student/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/release/internal_impl-24.1.0_42e023c5290011d9285a84aa875548ea4aff1439.jar" />
+    </item>
+
+</items>
